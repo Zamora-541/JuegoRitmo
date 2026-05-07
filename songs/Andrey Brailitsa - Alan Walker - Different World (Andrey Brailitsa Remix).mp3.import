@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://co4piru2nsuva"
+path="res://.godot/imported/Andrey Brailitsa - Alan Walker - Different World (Andrey Brailitsa Remix).mp3-de9252280dcee2cf649774df2ca54e3f.mp3str"
+
+[deps]
+
+source_file="res://songs/Andrey Brailitsa - Alan Walker - Different World (Andrey Brailitsa Remix).mp3"
+dest_files=["res://.godot/imported/Andrey Brailitsa - Alan Walker - Different World (Andrey Brailitsa Remix).mp3-de9252280dcee2cf649774df2ca54e3f.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://87sawf8eccfl"
+path="res://.godot/imported/Dj_Zakat - Alan Walker - Faded (Dj_Zakat - Remix 2021).mp3-b153cd3c76132364f0b9ab77ce51d1d4.mp3str"
+
+[deps]
+
+source_file="res://songs/Dj_Zakat - Alan Walker - Faded (Dj_Zakat - Remix 2021).mp3"
+dest_files=["res://.godot/imported/Dj_Zakat - Alan Walker - Faded (Dj_Zakat - Remix 2021).mp3-b153cd3c76132364f0b9ab77ce51d1d4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

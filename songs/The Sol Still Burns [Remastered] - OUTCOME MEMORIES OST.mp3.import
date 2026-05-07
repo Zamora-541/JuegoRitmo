@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://guf26rrtuiiy"
+path="res://.godot/imported/The Sol Still Burns [Remastered] - OUTCOME MEMORIES OST.mp3-7461d4349aea2d5e6c415095c8de3171.mp3str"
+
+[deps]
+
+source_file="res://songs/The Sol Still Burns [Remastered] - OUTCOME MEMORIES OST.mp3"
+dest_files=["res://.godot/imported/The Sol Still Burns [Remastered] - OUTCOME MEMORIES OST.mp3-7461d4349aea2d5e6c415095c8de3171.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://xl6wpgxgjt3p"
+path="res://.godot/imported/Eduard Perelyhin - No Copyright Background 80s Synthwave Music.mp3-d612e444cdc45799d26efb717c86742b.mp3str"
+
+[deps]
+
+source_file="res://songs/Eduard Perelyhin - No Copyright Background 80s Synthwave Music.mp3"
+dest_files=["res://.godot/imported/Eduard Perelyhin - No Copyright Background 80s Synthwave Music.mp3-d612e444cdc45799d26efb717c86742b.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
