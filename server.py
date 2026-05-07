@@ -22,7 +22,7 @@ import miniaudio
 #  CONFIGURACIÓN
 CLIENT_ID  = "baadf3c4"
 SONGS_DIR = Path(__file__).parent / "songs" #Path(r"C:\Users\GAMER\Downloads\proyecto-integrador_Cambiado\proyecto-integrador\songs")
-DB_PATH    = Path(__file__).parent.parent / "scores.db"
+DB_PATH    = Path(__file__).parent / "scores.db"
 SONGS_DIR.mkdir(exist_ok=True)
 
 # ──────────────────────────────────────────────
@@ -341,3 +341,10 @@ def get_scores(song_name: str):
     conn.close()
     return {"scores": [dict(r) for r in rows]}
 
+ 
+ 
+if __name__ == "__main__":
+    import uvicorn
+    import os
+    port = int(os.environ.get("PORT", 8000))
+    uvicorn.run("server:app", host="0.0.0.0", port=port)
