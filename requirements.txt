@@ -7,4 +7,6 @@ soundfile
 pydub
 miniaudio
 lameenc
- 
+yt-dlp
+Pillow
+python-dotenv
